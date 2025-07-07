@@ -9,11 +9,6 @@ A script to repack Stacher7 into a Appimage.
 
 1.  The **Stacher `.deb` package**. You can download the latest version from [stacher.io](https://stacher.io/).
 2.  **Required command-line tools**. The script will check for these automatically.
-    -   On **Debian/Ubuntu**, you can install them with:
-        ```shell
-        sudo apt update
-        sudo apt install binutils tar zstd coreutils grep sed curl
-        ```
     -   On **Fedora**, you can install them with:
         ```shell
         sudo dnf update
