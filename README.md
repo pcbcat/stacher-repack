@@ -22,7 +22,7 @@ A script to repack Stacher7 into a Appimage.
 
 ## Usage
 
-1.  Clone this repository or download the `stacher-repack.sh` from [releases]().
+1.  Clone this repository or download the `stacher-repack.sh` from [releases](https://github.com/pcbcat/stacher-repack/releases/latest).
 2.  Place the latest Stacher `.deb` file (e.g., `stacher7_7.0.00_amd64.deb`) in the same directory.
 3.  Make the script executable:
     ```shell
